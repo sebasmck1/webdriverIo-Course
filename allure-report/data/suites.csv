@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Aug 08 13:05:02 COT 2022","Mon Aug 08 13:05:35 COT 2022","32500","","Navigation menu","","Navigation menu","Should get the texts of the menus","Should get the texts of the menus",""
+"broken","Mon Aug 08 13:05:03 COT 2022","Mon Aug 08 13:05:25 COT 2022","21992","","Blog","","Blog","Should validate the number of blog posts is not empty on page load","Should validate the number of blog posts is not empty on page load",""
+"passed","Mon Aug 08 13:05:03 COT 2022","Mon Aug 08 13:05:34 COT 2022","31576","","Blog page","","Blog page","Should access the blog page and fill out the form, then assert the form has been submitted successfully","Should access the blog page and fill out the form, then assert the form has been submitted successfully",""
+"passed","Mon Aug 08 13:05:03 COT 2022","Mon Aug 08 13:05:33 COT 2022","30847","","Home","","Home","Should assert homepage title is x vs x","Should assert homepage title is x vs x",""
+"passed","Mon Aug 08 13:05:03 COT 2022","Mon Aug 08 13:05:06 COT 2022","3744","","Upload tests","","Upload tests","Simple upload test","Simple upload test",""
+"passed","Mon Aug 08 13:05:06 COT 2022","Mon Aug 08 13:05:38 COT 2022","31912","","Upload tests","","Upload tests","Should Uppload on a hidden input field","Should Uppload on a hidden input field",""

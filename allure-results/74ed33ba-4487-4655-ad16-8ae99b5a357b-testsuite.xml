@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1659981401737' stop='1659981412443'>
+    <name>Blog page</name>
+    <title>Blog page</title>
+    <test-cases>
+        <test-case start='1659981401737' status='passed' stop='1659981412442'>
+            <name>Should access the blog page and fill out the form, then assert the form has been submitted successfully</name>
+            <title>Should access the blog page and fill out the form, then assert the form has been submitted successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.79'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
